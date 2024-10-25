@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 5.4.1, created on 2024-10-25 21:57:28
+/* Smarty version 5.4.1, created on 2024-10-25 22:11:43
   from 'file:test.tpl' */
 
 /* @var \Smarty\Template $_smarty_tpl */
 if ($_smarty_tpl->getCompiled()->isFresh($_smarty_tpl, array (
   'version' => '5.4.1',
-  'unifunc' => 'content_671bf8283f5368_55191969',
+  'unifunc' => 'content_671bfb7f9672e3_35078704',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4a2411daa54eeb173d78fa2aa8dcefe4410f4d8c' => 
     array (
       0 => 'test.tpl',
-      1 => 1729886246,
+      1 => 1729886891,
       2 => 'file',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->getCompiled()->isFresh($_smarty_tpl, array (
     'file:../../includes/nav.php' => 1,
   ),
 ))) {
-function content_671bf8283f5368_55191969 (\Smarty\Template $_smarty_tpl) {
+function content_671bfb7f9672e3_35078704 (\Smarty\Template $_smarty_tpl) {
 $_smarty_current_dir = 'D:\\xampp1\\htdocs\\Template_Bootstrap-Smarty\\smarty\\templates';
 $_smarty_tpl->getInheritance()->init($_smarty_tpl, false);
 ?>
@@ -39,14 +39,14 @@ $_smarty_tpl->getInheritance()->init($_smarty_tpl, false);
     <?php $_smarty_tpl->renderSubTemplate('file:../../includes/nav.php', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), (int) 0, $_smarty_current_dir);
 ?> <!-- Inclusion du fichier de navigation -->
     <div class="container mt-4">
-        <h1>Bienvenue dans TemplateBootstrapSmarty</h1>
+        <h1>Bienvenue dans Template_Bootstrap-Smarty</h1>
         <p class="lead">Ceci est une démo utilisant Bootstrap et Smarty pour afficher des contenus dynamiques.</p>
         
         <!-- Section dynamique -->
         <div style="border: 1px solid gray; border-radius: 5px; padding: 15px;">
             <div style="text-align: center;">
                 <?php 
-$_smarty_tpl->getInheritance()->instanceBlock($_smarty_tpl, 'Block_930606471671bf8283f26e7_12086830', 'content');
+$_smarty_tpl->getInheritance()->instanceBlock($_smarty_tpl, 'Block_212526122671bfb7f8c3a93_13855584', 'content');
 ?>
 
             </div>        
@@ -69,7 +69,7 @@ $_smarty_tpl->getInheritance()->instanceBlock($_smarty_tpl, 'Block_930606471671b
 </html>
 <?php }
 /* {block 'content'} */
-class Block_930606471671bf8283f26e7_12086830 extends \Smarty\Runtime\Block
+class Block_212526122671bfb7f8c3a93_13855584 extends \Smarty\Runtime\Block
 {
 public function callBlock(\Smarty\Template $_smarty_tpl) {
 $_smarty_current_dir = 'D:\\xampp1\\htdocs\\Template_Bootstrap-Smarty\\smarty\\templates';

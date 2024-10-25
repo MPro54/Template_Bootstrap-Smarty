@@ -17,10 +17,10 @@ TemplateBootstrapSmarty est un projet PHP qui utilise le moteur de templates Sma
 
 
 ##  Instructions d'installation : 
- 1. Clonez le dépôt : git clone https://votre-lien-repo.git 
- 2. Accédez au répertoire du projet : cd TemplateBootstrapSmarty 
+ 1. Clonez le dépôt : git clone https://github.com/MPro54/Template_Bootstrap-Smarty.git 
+ 2. Accédez au répertoire du projet : cd Template_Bootstrap-Smarty 
  3. Installez les dépendances avec Composer : composer install 
- 4. Pour visualiser le projet, lancez un serveur local comme XAMPP et accédez à http://localhost/TemplateBootstrapSmarty dans votre navigateur. 
+ 4. Pour visualiser le projet, lancez un serveur local comme XAMPP et accédez à http://localhost/Template_Bootstrap-Smarty dans votre navigateur. 
 
 
 ## Utilisation
