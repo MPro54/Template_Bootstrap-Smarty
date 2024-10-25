@@ -11,7 +11,7 @@
 
     {include file='../../includes/nav.php'} <!-- Inclusion du fichier de navigation -->
     <div class="container mt-4">
-        <h1>Bienvenue dans TemplateBootstrapSmarty</h1>
+        <h1>Bienvenue dans Template_Bootstrap-Smarty</h1>
         <p class="lead">Ceci est une démo utilisant Bootstrap et Smarty pour afficher des contenus dynamiques.</p>
         
         <!-- Section dynamique -->
