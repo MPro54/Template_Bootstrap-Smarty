@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Template Bootstrap Smarty</title>
+    <title>Template Bootstrap & Smarty</title>
     <!-- Lien vers Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
@@ -11,7 +11,7 @@
 
     {include file='../../includes/nav.php'} <!-- Inclusion du fichier de navigation -->
     <div class="container mt-4">
-        <h1>Bienvenue dans Template_Bootstrap-Smarty</h1>
+        <h1>Bienvenue dans Template Bootstrap & Smarty</h1>
         <p class="lead">Ceci est une démo utilisant Bootstrap et Smarty pour afficher des contenus dynamiques.</p>
         
         <!-- Section dynamique -->
