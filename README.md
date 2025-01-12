@@ -1,5 +1,5 @@
 # Template d'utilisation de Bootstrap et Smarty
-
+![visuel du projet](view_img/img_acceuil.JPG)
 
 ## Description
 Template_Bootstrap-Smarty est un projet PHP qui utilise le moteur de templates Smarty pour gérer et afficher des contenus dynamiques. Ce projet démontre l'intégration de Smarty avec Composer, facilitant la gestion et l'affichage des templates dans une application web.
